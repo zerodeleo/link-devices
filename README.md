@@ -2,11 +2,11 @@
 
 How to link two devices together using React, Context API and the design pattern of providers.
 
-## Content
-### The Idea of the Project
-### The Result of the Project
-### The Architecture
-### Setup
+### Content
+#### The Idea of the Project
+#### The Result of the Project
+#### The Architecture
+#### Setup
 
 ## The Idea of the Project
 <img style="" src="page_1.png" alt="An image showing the idea of the project"/>
