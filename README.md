@@ -2,6 +2,11 @@
 
 How to link two devices together using React, Context API and the design pattern of providers.
 
+## This Project
+
+<img src="Screenshot 2024-07-21 at 22.15.19.png" alt="A screenshot showing one state of the application"/>
+<img src="Screenshot 2024-07-21 at 22.14.58.png" alt="A screenshot showing one state of the application"/>
+
 ## Architecture
 <img src="/img/architecture_1.jpg" alt="An image of the applications architecture"/>
 <img src="/img/architecture_2.jpg" alt="An image of the applications optional architecture"/>
